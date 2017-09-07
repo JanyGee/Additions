@@ -25,6 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+                    * Markdown format.
+                    * Don't worry about the indent, we strip it!
                    DESC
 
   s.homepage     = "http://github.com/JanyGee/Additions"
